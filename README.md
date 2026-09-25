@@ -30,7 +30,7 @@ apk add --allow-untrusted ./luci-app-k3screenctrl-5-r1.apk
 >
 > 由于手头没有 6 屏设备，**没有编译 6 屏版**。
 >
-> 如果你是 6 屏版，请去原作者 [MSquach/k3screenctrl](https://github.com/MSquach/k3screenctrl) 仓库拉取 `6P` 分支自行编译。编译流程与本项目相同。
+> 如果你是 6 屏版，请去原作者 [MSquach/k3screenctrl](https://github.com/MSquach/k3screenctrl) 仓库拉取 `6P` 分支自行编译。编译流程可以找蓝色大肥鱼(Deepseek)问问。
 
 ## 特别感谢
 
