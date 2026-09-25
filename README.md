@@ -22,3 +22,17 @@ apk add --allow-untrusted ./k3screenctrl-5-r1.apk
 apk add --allow-untrusted ./luci-app-k3screenctrl-5-r1.apk
 /etc/init.d/k3screenctrl enable
 /etc/init.d/k3screenctrl start
+```
+
+## 免责声明与 6 屏版指引
+
+> 本包是作者为了救活自己的 5 屏版 K3，在 Arch Linux 下硬着头皮编译出来的，能用就行，没怎么测试。
+>
+> 由于手头没有 6 屏设备，**没有编译 6 屏版**。
+>
+> 如果你是 6 屏版，请去原作者 [MSquach/k3screenctrl](https://github.com/MSquach/k3screenctrl) 仓库拉取 `6P` 分支自行编译。编译流程与本项目相同。
+
+## 特别感谢
+
+- 编译协助：[DeepSeek](https://www.deepseek.com)
+- 源码作者：[MSquach](https://github.com/MSquach/k3screenctrl)
